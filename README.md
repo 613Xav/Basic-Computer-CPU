@@ -47,8 +47,15 @@ The 7-segment display shows the memory content in hexadecimal format. A hex-to-7
 
 
 
-**pictures of the CPU elements**:
-Memory adress blocks and values:
+# **Pictures of the CPU elements**:
+
+  Memory adress blocks and values:
 
 ![Image of the memory content ](pictures/7.2memorycontents.PNG)
+
+  Logic for the control signals used by CPU and ALU (EX. clear, load, increment functions for the program counter, accumulator etc): 
+  
+![Image of the memory content ](pictures/lab3controller.PNG)
+
+
 
