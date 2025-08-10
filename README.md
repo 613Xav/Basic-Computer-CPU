@@ -57,5 +57,11 @@ The 7-segment display shows the memory content in hexadecimal format. A hex-to-7
   
 ![Image of the memory content ](pictures/lab3controller.PNG)
 
+  Arithmetic Logic Unit:
+
+![Image of the memory content ](pictures/ALUwithregisters.PNG)
+
+  
+
 
 
