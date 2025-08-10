@@ -1,0 +1,11 @@
+
+
+H:/Lab4/ram256x8.vhd
+
+Nov 11 10AM:38:49>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+H:/Lab4/ram256x8.vhd
+
+Nov 11 10AM:38:50>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
