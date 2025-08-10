@@ -63,7 +63,7 @@ The 7-segment display shows the memory content in hexadecimal format. A hex-to-7
 
   Arithmetic part of ALU:
   
-![Image of the memory content ](pictures/arithcircuit.PNG)
+![Image of the memory content ](pictures/Arithcircuit4bit.PNG)
 
   Logical part of the ALU
 
