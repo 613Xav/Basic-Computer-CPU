@@ -1,7 +1,7 @@
 # Basic-Computer-CPU
 CPU created using an Arithmetic Logic Unit as well as memory units for my computer architecture class. Here is the general view of the compononents put together.
 
-![Top view of the CPU](picture/lab3top.png)
+![Top view of the CPU](pictures/lab3top.PNG)
 
 
 # Components used
