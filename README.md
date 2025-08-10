@@ -1,5 +1,8 @@
 # Basic-Computer-CPU
-Basic CPU created using an Arithmetic Logic Unit as well as memory units for my computer architecture class.
+CPU created using an Arithmetic Logic Unit as well as memory units for my computer architecture class. Here is the general view of the compononents put together.
+
+![Top view of the CPU](picture/lab3Top.png)
+
 
 # Components used
 
@@ -46,5 +49,6 @@ The 7-segment display shows the memory content in hexadecimal format. A hex-to-7
 
 **pictures of the CPU elements**:
 Memory adress blocks and values:
+
 ![Image of the memory content ](pictures/7.2memorycontents.PNG)
 
